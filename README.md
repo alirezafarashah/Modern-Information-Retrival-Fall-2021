@@ -1,1 +1,1 @@
-# MIR_phase1
+# Modern Information Retrival Projects Fall-2021
